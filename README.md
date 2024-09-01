@@ -1,4 +1,4 @@
-# Summarization Project
+# Summarization Service
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project provides advanced summarization functionality using state-of-the-ar
 
 ### Upload file or provide text 
 
-![File upload/add text](Screenshots\Two_input_options.png)
+![File upload/add text](./Screenshots/Two_input_options.png)
 
 
 ### Abstractive Summarization
@@ -20,14 +20,14 @@ Abstractive summarization generates new sentences that capture the essence of th
 - Gemma
 - Pegasus
 
-![Abstractive Summarization](Screenshots\Abstractive_types.png)
+![Abstractive Summarization](./Screenshots/Abstractive_types.png)
 
 ### Extractive Summarization
 Extractive summarization selects and compiles existing sentences from the original text to create a summary. The models implemented for this are:
 - LuhnSumy
 - BERT
 
-![Extractive Summarization](Screenshots\Extractive_types.png)
+![Extractive Summarization](./Screenshots/Extractive_types.png)
 
 ## Usage
 
@@ -38,14 +38,14 @@ Extractive summarization selects and compiles existing sentences from the origin
 2. **Get Summary:**
    - The system will generate a summary using the selected model.
 
-![Summary Generated](Screenshots\Final_response.png)
+![Summary Generated](./Screenshots/Final_response.png)
 
 3. **Question Answering:**
    - If you have additional questions about the document, you can ask them.
    - The QA system, powered by the Llama-3 model, will provide answers.
    - Vectors are stored using Pinecone serverless.
 
-![Question Answering](Screenshots\QA.png)
+![Question Answering](./Screenshots/QA.png)
 
 ## Technical Details
 
