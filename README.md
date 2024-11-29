@@ -1,5 +1,9 @@
 # Summarization Service
 
+[Working project video] [1, 2, 3] 
+
+<video src='[AI SUmmarization And QA](https://youtu.be/jkrNSOFhwlA)' width=180/>
+
 ## Overview
 
 This project provides advanced summarization functionality using state-of-the-art models for both abstractive and extractive summarization. Users can obtain summaries of provided text or uploaded files and ask questions about their documents.
