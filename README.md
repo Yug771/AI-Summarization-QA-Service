@@ -1,8 +1,7 @@
 # Summarization Service
 
-[Working project video] [1, 2, 3] 
 
-<video src='[AI SUmmarization And QA](https://youtu.be/jkrNSOFhwlA)' width=180/>
+[![AI Summarization QA Service](https://img.youtube.com/vi/jkrNSOFhwlA/0.jpg)](https://www.youtube.com/watch?v=jkrNSOFhwlA)
 
 ## Overview
 
